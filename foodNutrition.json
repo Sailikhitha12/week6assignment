@@ -1,0 +1,48 @@
+{
+    "foodData":[
+        {
+            "foodName": "carrot",
+            "category": "vegetable",
+            "Description": "carrots are high in fiber, vitamin A, and various antioxidants",
+            "NutritionInfo":{
+                "calories": 320,
+                "micronutrients": "vitamin A",
+                "fiber": "high",
+                "sodium": "high",
+                "cholestrol": 70
+            },
+            "servingsize": "500g",
+            "allergens": "allergy free",
+            "ingridents": "None",
+            "preparationMethod": "plant based",
+            "certification": "organic",
+            "countryOfOrigin": "united states",
+            "brand": "veggies",
+            "dietaryRestriction": "vegetable based",
+            "healthBenefits": "nutrition food",
+            "bestPractics": "consume 2 per day"
+        },
+        {
+            "foodName": "apple",
+            "category": "fruit",
+            "Description": "apples are high in fiber, vitamin A, and various antioxidants",
+            "NutritionInfo":{
+                "calories": 320,
+                "micronutrients": "vitamin A",
+                "fiber": "high",
+                "sodium": "high",
+                "cholestrol": 70
+            },
+            "servingsize": "500g",
+            "allergens": "allergy free",
+            "ingridents": "None",
+            "preparationMethod": "plant based",
+            "certification": "organic",
+            "countryOfOrigin": "united states",
+            "brand": "Appy",
+            "dietaryRestriction": "fruit",
+            "healthBenefits": "nutrition food",
+            "bestPractics": "consume 2 per day"
+        }
+    ]
+}
